@@ -1,2 +1,3 @@
-# uas2
-uas2
+UAS BIG DATA
+Muhammad Raka Candra Murti Sugiyanata
+NIM : 1202922003
